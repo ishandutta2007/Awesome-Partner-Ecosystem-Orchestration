@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Partner-Ecosystem-Orchestration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,9 +61,9 @@ The table below lists the premier proprietary Partner Ecosystem Orchestration, P
 
 ## 💻 Open-Source Alternatives 🚀
 
-For engineering teams seeking self-hosted, sovereign, or customizable software for partner relationship management, affiliate networks, referral tracking, and deep attribution, here are the leading open-source repositories sorted by **GitHub Stars in descending order**:
+For engineering teams seeking self-hosted, sovereign, or customizable software for partner relationship management, affiliate networks, referral tracking, and deep attribution, here are the leading open-source repositories sorted by **GitHub_Stars in descending order**:
 
-| Repository | Stars ⭐ | Primary Role & Capabilities | Technology Stack 🧰 | License 📄 |
+| Repository | GitHub_Stars ⭐ | Primary Role & Capabilities | Technology Stack 🧰 | License 📄 |
 |---|:---:|---|---|:---:|
 | [BranchMetrics / ios-branch-deep-linking-attribution](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution) | [![Stars](https://img.shields.io/github/stars/BranchMetrics/ios-branch-deep-linking-attribution?style=social&color=white)](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution/stargazers) | Open-source mobile SDK powering partner deep-linking, cross-platform referral tracking, and multi-touch acquisition attribution. | Objective-C, Swift | Apache-2.0 |
 | [Affitor / affiliate-skills](https://github.com/Affitor/affiliate-skills) | [![Stars](https://img.shields.io/github/stars/Affitor/affiliate-skills?style=social&color=white)](https://github.com/Affitor/affiliate-skills/stargazers) | Collection of 50+ AI agent skills and automation frameworks for autonomous partner outreach, affiliate marketing, and campaign orchestration. | Python, Shell | MIT |
@@ -103,3 +103,12 @@ If you found this list useful, please consider:
 ## 📜 License 📄
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Partner-Ecosystem-Orchestration&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Partner-Ecosystem-Orchestration_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Partner-Ecosystem-Orchestration_growth.svg">
+  </picture>
+</a>
