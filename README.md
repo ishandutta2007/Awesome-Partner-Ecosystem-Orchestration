@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Partner Ecosystem Orchestration Banner" width="100%">
+  <img src="./assets/banner.svg" alt="Awesome Partner Ecosystem Orchestration Banner" width="100%"/>
 </p>
 
 # 🤝 Awesome Partner Ecosystem Orchestration 🌐
